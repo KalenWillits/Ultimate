@@ -1,0 +1,48 @@
+.
+├── data
+├── docs
+├── figures
+├── parameters.txt
+├── readme.md
+├── requirements.txt
+├── resources
+│   ├── ultimate_challenge
+│   │   ├── logins.json
+│   │   ├── ultimate_data_challenge.json
+│   │   └── ultimate_data_science_challenge.pdf
+│   └── ultimate_challenge.zip
+├── sandbox
+└── tree.txt
+
+6 directories, 8 files
+.
+├── bugs.md
+├── data
+│   ├── logins_binned.csv
+│   ├── logins.json
+│   └── ultimate_data_challenge.json
+├── documents
+│   ├── reference.md
+│   └── ultimate_data_science_challenge.pdf
+├── figures
+│   ├── pairplot.png
+│   ├── ratings_vs_trips.png
+│   ├── trips_in_first_30_days_vs_trips_in_first_30_days.png
+│   └── user_login_activity.png
+├── library.py
+├── notebook.ipynb
+├── notebook.py
+├── parameters.txt
+├── __pycache__
+│   └── library.cpython-37.pyc
+├── readme.md
+├── requirements.txt
+├── resources
+│   └── ultimate_challenge.zip
+├── sandbox
+│   ├── json_to_pandas.py
+│   └── sandbox.py
+├── test_json.json
+└── tree.txt
+
+6 directories, 22 files
